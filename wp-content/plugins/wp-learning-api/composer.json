@@ -1,0 +1,11 @@
+{
+  "name": "andres/wp-learning-api",
+  "description": "API REST modular para plataforma educativa en WordPress.",
+  "type": "wordpress-plugin",
+  "autoload": {
+    "psr-4": {
+      "WpLearningApi\\": "src/"
+    }
+  },
+  "require": {}
+}
